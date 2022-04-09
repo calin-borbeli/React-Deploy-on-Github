@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-tutorial-by-dave-gray-deploy-to-gh-pages/static/css/main.55b0482e.css",
-    "main.js": "/react-tutorial-by-dave-gray-deploy-to-gh-pages/static/js/main.3646bc74.js",
-    "index.html": "/react-tutorial-by-dave-gray-deploy-to-gh-pages/index.html",
-    "main.55b0482e.css.map": "/react-tutorial-by-dave-gray-deploy-to-gh-pages/static/css/main.55b0482e.css.map",
-    "main.3646bc74.js.map": "/react-tutorial-by-dave-gray-deploy-to-gh-pages/static/js/main.3646bc74.js.map"
+    "main.css": "/react-tutorial-by-dave-gray-deploy-on-github-pages/static/css/main.55b0482e.css",
+    "main.js": "/react-tutorial-by-dave-gray-deploy-on-github-pages/static/js/main.3646bc74.js",
+    "index.html": "/react-tutorial-by-dave-gray-deploy-on-github-pages/index.html",
+    "main.55b0482e.css.map": "/react-tutorial-by-dave-gray-deploy-on-github-pages/static/css/main.55b0482e.css.map",
+    "main.3646bc74.js.map": "/react-tutorial-by-dave-gray-deploy-on-github-pages/static/js/main.3646bc74.js.map"
   },
   "entrypoints": [
     "static/css/main.55b0482e.css",
