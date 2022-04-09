@@ -1,7 +1,7 @@
 {
 	"name": "tut06",
 	"version": "0.1.0",
-	"homepage": "https://calin-borbeli.github.io/react-tutorial-by-dave-gray-deploy-on-github-pages",
+	"homepage": "https://calin-borbeli.github.io/React-Tutorial-by-Dave-Gray-Deploy-on-Github-Pages",
 	"private": true,
 	"dependencies": {
 		"react": "^18.0.0",
